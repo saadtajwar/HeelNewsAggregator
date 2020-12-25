@@ -9,5 +9,5 @@ HeelNewsAggregator was made using Python & Django.
 ![alt text](https://i.gyazo.com/1cf9a195069ed6d4be71f02a602218c2.png)
 
 ## License
-MIT (LICENSE)
+MIT (HeelNewsAggregator/LICENSE)
 
